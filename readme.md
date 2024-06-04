@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://github.com/AaryaDevnani/TribesNetworkingModel/assets/62675730/800544b3-1dfc-4fd3-9726-ec4ea7846d95" alt="Tank Racer Gif" />
-    <figcaption align="center" >Racing Game Demo</figcaption>
+</p>
+<p align="center">
+Racing Game Demo
 </p>
 
 # Prime Engine
