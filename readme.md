@@ -1,3 +1,5 @@
+![UDP-Tribes](https://github.com/AaryaDevnani/TribesNetworkingModel/assets/62675730/800544b3-1dfc-4fd3-9726-ec4ea7846d95)
+
 # Prime Engine
 
 Prime Engine is an engine developed by Prof. Artem Kovalovs.
